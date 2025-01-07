@@ -1,21 +1,21 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: u
   - Performance tuning
-  - Migrations
+  - Migrations: u
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery: u
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases: u
+  - Key-value store: u
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases: u
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
@@ -23,59 +23,59 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Normal forms: u
+  - Indexing: u
+  - Primary keys: u
+  - Foreign keys: u
+  - Transactions: u
   - Views
-  - Subqueries
+  - Subqueries: u
   - Stored procedures
-  - SQL functions
+  - SQL functions: u
   - Materialized views
-  - Replications
+  - Replications: h
   - Virtualization
+  - `SELECT`: u
+  - `INSERT`: u
+  - `UPDATE`: u
+  - `DELETE`: u
+  - `LIMIT`: u
+  - `OFFSET`: u
+  - `ORDER BY`: u
+  - `GROUP BY`: u
+  - `HAVING`: u
+  - `EXISTS`: u
+  - `JOIN`: u
+  - `INNER JOIN`: u
+  - `LEFT JOIN`: u
+  - `RIGHT JOIN`: u
+  - `UNION`: u
+  - `DISTINCT`: u
+  - `WHERE`: u
+  - `LIKE`: u
+  - `IN`: u
+  - `BETWEEN`: u
+  - `CREATE TABLE` u
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `ALTER TABLE`: u
+  - `DROP TABLE`: u
+  - `PRIMARY KEY`: u
+  - `FOREIGN KEY`: u
+  - `CHECK`: u
+  - `DEFAULT`: u
+  - `INDEX`: u
+  - `UNIQUE`: u
   - `GRANT`
   - `REVOKE`
   - `DENY`
-  - `EXPLAIN`
+  - `EXPLAIN`: u
 - Engines
-  - PostgreSQL
+  - PostgreSQL: u
   - Oracle
   - MySQL
   - MariaDB
   - MS SQL Server
-  - Redis
+  - Redis: u
   - Rabbit
   - MongoDB
   - Memcached
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools
+  - AI tools: 🖐️ used
   - Cloud databases
   - Data Visualization
