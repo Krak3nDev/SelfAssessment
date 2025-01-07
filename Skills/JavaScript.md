@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - `Object`: u
-  - `Function`: u
-  - `Boolean`: u
-  - `Number`: u
-  - `BigInt`: u
-  - `String`: u
-  - `Symbol`: u
-  - `Infinity`: u
-  - `NaN`: u
-  - `undefined`: u
-  - `null`: u
-  - `this`: u
-  - `instanceof`: u
-  - `...spread`: u
-  - `...rest`: u
-  - `typeof`: u
-  - Destructuring: u
-  - Generators: u
-  - Iterators: u
-  - Async generator: h
-  - Async iterator: h
-  - Chaining: u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
+  - Chaining: 🖐️ used
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`: u
+  - `global`: 🖐️ used
   - `globalThis`
   - `window`
-  - Getters and setters: u
+  - Getters and setters: 🖐️ used
   - `__proto__`
   - `prototype`
-  - Equality operators: u
-  - Logical operators: u
-  - Logical Assignment: u
-  - Bitwise operators: u
-  - Ternary operator: u
-  - `void`: u
-  - `yield`: u
-  - `await`: u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
+  - `yield`: 🖐️ used
+  - `await`: 🖐️ used
   - Template literal
-  - Strict mode: u
-  - Hoisting: u
+  - Strict mode: 🖐️ used
+  - Hoisting: 🖐️ used
   - `delete u`
-  - `in`: u
-  - `super`: u
-  - `eval`: u
-  - `static`: u
-  - `Number.parseInt`: h
-  - `Number.parseFloat`: h
+  - `in`: 🖐️ used
+  - `super`: 🖐️ used
+  - `eval`: 🖐️ used
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
-  - Computed properties: u
+  - Computed properties: 🖐️ used
   - Instance class fields
-  - Static class fields: u
-  - Private class fields: u
-  - Private class methods: u
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - `if`: u
-  - `while`: u
-  - `do..while`: u
-  - `for`: u
-  - `for..in`: u
-  - `for..of`: u
-  - `for await`: u
-  - `throw`: u
-  - `break`: u
-  - `continue`: u
-  - `import`: u
-  - `export`: u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 🖐️ used
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch`: u
-  - `switch`: u
-  - `class`: u
-  - `extends`: u
-  - `with`: u
-  - `new`: u
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`: 🖐️ used
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function: u
-  - Async function: u
-  - Function declaration: u
-  - Function expression: u
-  - Default parameters: u
-  - Functional object: u
-  - `Function.prototype.call`: u
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🖐️ used
+  - `Function.prototype.call`: 🖐️ used
   - `Function.prototype.bind`
-  - `Function.prototype.apply`: u
-  - `return`: u
+  - `Function.prototype.apply`: 🖐️ used
+  - `return`: 🖐️ used
 - Data structures
-  - `Array`: u
-  - `Map`: u
-  - `Set`: u
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays: u
+  - Typed arrays: 🖐️ used
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`: u
-  - `Date`: u
-  - `Math`: u
+  - `RegExp`: 🖐️ used
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`: u
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`: u
-  - `WeakRef`: u
+  - `JSON`: 🖐️ used
+  - `WeakRef`: 🖐️ used
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: u
-  - `console`: u
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js: u
-  - npm: u
-  - prettier: u
-  - MDN: u
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39
